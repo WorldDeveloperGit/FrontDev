@@ -1,0 +1,38 @@
+body{
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.box_js{
+  padding: 50px;
+  border-radius: 50px;
+  border-color: #FFE7BD;
+  background-color: #FFFFFF;
+  border: 3px solid #02FF00;
+}
+.btn_c{
+  background: none;
+  width: 100%;
+  border: 5px solid dodgerblue;
+  padding: 20px;
+  border-radius: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  color: black;
+}
+.box_css{
+  padding: 50px;
+  border-radius: 50px;
+  border-color: #FFE7BD;
+  background-color: #FFFFFF;
+  border: 3px solid #02FF00;
+}
+.btn_cs{
+  background: none;
+  width: 100%;
+  border: 5px solid dodgerblue;
+  padding: 20px;
+  border-radius: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  color: black;
+}

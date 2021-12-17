@@ -1,0 +1,25 @@
+body{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.btn{
+  background-image: linear-gradient(to right, rgb(0, 92, 107), rgb(90, 20, 220));
+  width: 100%;
+  border: none;
+  padding: 20px;
+  border-radius: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  color: white;
+}
+fieldset{
+  border: 3px solid #7400FF;
+  border-radius: 15px;
+}
+legend{
+  border: 3px solid #7400FF;
+  text-align: center;
+  background-color: #7400FF;
+  border-radius: 8px;
+  color: white;
+}
